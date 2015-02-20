@@ -1,0 +1,6 @@
+G:\Estudos e Atualização\Apps independentes-estudo\DOT.NET\ADOExample\ADOExample\bin\Debug\ADOExample.exe.config
+G:\Estudos e Atualização\Apps independentes-estudo\DOT.NET\ADOExample\ADOExample\bin\Debug\ADOExample.exe
+G:\Estudos e Atualização\Apps independentes-estudo\DOT.NET\ADOExample\ADOExample\bin\Debug\ADOExample.pdb
+G:\Estudos e Atualização\Apps independentes-estudo\DOT.NET\ADOExample\ADOExample\obj\Debug\ADOExample.csprojResolveAssemblyReference.cache
+G:\Estudos e Atualização\Apps independentes-estudo\DOT.NET\ADOExample\ADOExample\obj\Debug\ADOExample.exe
+G:\Estudos e Atualização\Apps independentes-estudo\DOT.NET\ADOExample\ADOExample\obj\Debug\ADOExample.pdb
